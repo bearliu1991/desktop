@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>销大师</title>
+    <script src="https://cdn.bootcss.com/babel-polyfill/7.0.0-beta.49/polyfill.min.js"></script>
+    <% if (htmlWebpackPlugin.options.nodeModules) { %>
+      <!-- Add `node_modules/` to global paths so `require` works properly in development -->
+      <script>
+        require('module').globalPaths.push('<%= htmlWebpackPlugin.options.nodeModules.replace(/\\/g, '\\\\') %>')
+      </script>
+    <% } %>
+  </head>
+  <body>
+    <div id="app"></div>
+  </body>
+  <script src="http://s1.bdstatic.com/r/www/cache/ecom/etpl/3-2-0/etpl.js"></script>
+  <script>
+    // 手动添加css或js资源
+    function addResource(baseUrl, subUrlArr, type) {
+      for (let subUrl of subUrlArr) {
+        type === 'css' ? document.write('<link href="' + stardardUrl(baseUrl + subUrl) + '" type="text/css" rel="stylesheet">') 
+          : document.write('<script type="text/javascript" src="' + stardardUrl(baseUrl + subUrl) + '"><\/script>')
+      }
+    }
+    // 标准化路径
+    function stardardUrl(url) {
+      return url.replace(/\\/g, '\\\\')
+    }
+    // 判断是否为生产环境
+    let isProduction = process.env.NODE_ENV !== "development";
+    (function (){
+      let Base = isProduction ? stardardUrl(__dirname) : ''
+      let baseRoute = stardardUrl(Base + '/static')
+      let libRoute = stardardUrl(baseRoute + '/js/umeditor/')
+      // css加载
+      let cssArr = [
+        'themes/default/_css/umeditor.css'
+      ]
+      // js主要插件
+      var jsArray = [
+        'third-party/jquery.min.js', 
+        'third-party/template.min.js', 
+        'umeditor.config.js'
+      ]
+      // umeditor相关插件
+      let umeditorArr = [
+              'editor.js',
+              'core/browser.js',
+              'core/utils.js',
+              'core/EventBase.js',
+              'core/dtd.js',
+              'core/domUtils.js',
+              'core/Range.js',
+              'core/Selection.js',
+              'core/Editor.js',
+              'core/filterword.js',
+              'core/node.js',
+              'core/htmlparser.js',
+              'core/filternode.js',
+              'plugins/inserthtml.js',
+              'plugins/image.js',
+              'plugins/justify.js',
+              'plugins/font.js',
+              'plugins/link.js',
+              'plugins/print.js',
+              'plugins/paragraph.js',
+              'plugins/horizontal.js',
+              'plugins/cleardoc.js',
+              'plugins/undo.js',
+              'plugins/paste.js',
+              'plugins/list.js',
+              'plugins/source.js',
+              'plugins/enterkey.js',
+              'plugins/preview.js',
+              'plugins/basestyle.js',
+              'plugins/video.js',
+              'plugins/selectall.js',
+              'plugins/removeformat.js',
+              'plugins/keystrokes.js',
+              'plugins/autosave.js',
+              'plugins/autoupload.js',
+              'plugins/formula.js',
+              'plugins/xssFilter.js',
+              'ui/widget.js',
+              'ui/button.js',
+              'ui/toolbar.js',
+              'ui/menu.js',
+              'ui/dropmenu.js',
+              'ui/splitbutton.js',
+              'ui/colorsplitbutton.js',
+              'ui/popup.js',
+              'ui/scale.js',
+              'ui/colorpicker.js',
+              'ui/combobox.js',
+              'ui/buttoncombobox.js',
+              'ui/modal.js',
+              'ui/tooltip.js',
+              'ui/tab.js',
+              'ui/separator.js',
+              'ui/scale.js',
+              'adapter/adapter.js',
+              'adapter/button.js',
+              'adapter/fullscreen.js',
+              'adapter/dialog.js',
+              'adapter/popup.js',
+              'adapter/imagescale.js',
+              'adapter/autofloat.js',
+              'adapter/source.js',
+              'adapter/combobox.js'
+          ]
+      addResource(libRoute, cssArr, 'css')
+      addResource(libRoute, jsArray, 'js')
+      addResource(libRoute + '_src/', umeditorArr, 'js')
+    })()
+  </script>
+</html>

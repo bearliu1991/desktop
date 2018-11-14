@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a3b4d2e3-1b85-47d8-90c3-532884b9f358" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/renderer/components/RightSide/rightPart.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/renderer/components/update/index/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/components/update/index/index.vue" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="G:\project\exportToHTML" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="installTip.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/renderer/components/update/installTip.vue">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="checking.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/renderer/components/update/checking.vue">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="logo.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/renderer/components/update/logo/logo.vue">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="percent.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/renderer/components/update/percent.vue">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="updateCont.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/renderer/components/update/updateCont.vue">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="version.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/renderer/components/update/version.vue">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="index.vue" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/renderer/components/update/index/index.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="37" column="31" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="31" />
+              <folding>
+                <element signature="e#452#494#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/renderer/store/modules/index.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>console.error</find>
+      <find>app</find>
+      <find>path</find>
+      <find>appIcon</find>
+      <find>createWindow</find>
+      <find>window-all-closed</find>
+      <find>activate</find>
+      <find>__dirname, '/static</find>
+      <find>app1</find>
+      <find>child</find>
+      <find>cloase</find>
+      <find>error</find>
+      <find>9080</find>
+      <find>request</find>
+      <find>Vue</find>
+      <find>excuteHot</find>
+      <find>createDefaultWindow</find>
+      <find>checkVersion</find>
+      <find>sendStatusToWindow</find>
+      <find>check_pr</find>
+      <find>downloadA</find>
+      <find>execWorkPro</find>
+      <find>hotUpdate</find>
+      <find>close</find>
+      <find>chal</find>
+      <find>install</find>
+      <find>showTip</find>
+      <find>UpdateCont</find>
+      <find>isCont</find>
+      <find>minimize</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>reject</replace>
+      <replace>resolve</replace>
+      <replace>checkWin</replace>
+      <replace>app</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>G:\project\node_modules\electron</dir>
+      <dir>G:\project\node_modules\</dir>
+      <dir>platform</dir>
+      <dir>G:\project\node_modules\electron-builder</dir>
+      <dir>G:\project\node_modules\electron-builder-lib</dir>
+      <dir>G:\project\node_modules</dir>
+      <dir>G:\project</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/renderer/components/right-side/right_part.vue" />
+        <option value="$PROJECT_DIR$/src/renderer/components/LandingPage.vue" />
+        <option value="$PROJECT_DIR$/install.js" />
+        <option value="$PROJECT_DIR$/gulpfile.js" />
+        <option value="$USER_HOME$/Documents/WXWork/1688850342313252/Cache/File/2018-06/index.js" />
+        <option value="G:/js_server.js" />
+        <option value="G:/server.js" />
+        <option value="G:/new-pro/package.json" />
+        <option value="$PROJECT_DIR$/build/latest.yml" />
+        <option value="G:/json/updateCon.js" />
+        <option value="G:/json/updateCont.txt" />
+        <option value="G:/json/updateCont.json" />
+        <option value="G:/json/interface.js" />
+        <option value="G:/server/public/project_hot/build/win-unpacked/resources/asar.txt" />
+        <option value="G:/server/index.js" />
+        <option value="$PROJECT_DIR$/dist/electron/main.js" />
+        <option value="$PROJECT_DIR$/.electron-vue/build.js" />
+        <option value="$PROJECT_DIR$/build/win-unpacked/resources/electron.asar" />
+        <option value="$PROJECT_DIR$/node_modules/electron-builder-lib/out/packager.js" />
+        <option value="$PROJECT_DIR$/node_modules/electron-builder-lib/out/asar/asarUtil.js" />
+        <option value="$PROJECT_DIR$/node_modules/electron-builder-lib/out/platformPackager.js" />
+        <option value="$USER_HOME$/Desktop/123/hotLoad.js" />
+        <option value="$PROJECT_DIR$/src/main/middleware.js" />
+        <option value="$PROJECT_DIR$/.electron-vue/dev-runner.js" />
+        <option value="$PROJECT_DIR$/src/renderer/assets/public.js" />
+        <option value="$PROJECT_DIR$/.electron-vue/webpack.web.config.js" />
+        <option value="$PROJECT_DIR$/.electron-vue/webpack.main.config.js" />
+        <option value="$PROJECT_DIR$/.electron-vue/webpack.renderer.config.js" />
+        <option value="$USER_HOME$/Desktop/server/package.json" />
+        <option value="$PROJECT_DIR$/src/index.ejs" />
+        <option value="$PROJECT_DIR$/dev-app-update.yml" />
+        <option value="$PROJECT_DIR$/electron-builder.yml" />
+        <option value="$USER_HOME$/Desktop/server/wwwroot/latest.yml" />
+        <option value="$PROJECT_DIR$/src/renderer/main.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/src/renderer/components/login/percent.vue" />
+        <option value="$PROJECT_DIR$/src/renderer/components/RightSide/rightPart.vue" />
+        <option value="$PROJECT_DIR$/src/main/index.js" />
+        <option value="$PROJECT_DIR$/src/renderer/components/login/installTip.vue" />
+        <option value="$PROJECT_DIR$/src/renderer/components/login/index/index.vue" />
+        <option value="$PROJECT_DIR$/src/renderer/App.vue" />
+        <option value="$PROJECT_DIR$/src/renderer/components/login/login/login.vue" />
+        <option value="$PROJECT_DIR$/src/renderer/assets/css/class.styl" />
+        <option value="$PROJECT_DIR$/src/renderer/router/index.js" />
+        <option value="$PROJECT_DIR$/src/renderer/components/update/index/index.vue" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="2077" />
+    <option name="y" value="36" />
+    <option name="width" value="1472" />
+    <option name="height" value="933" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="work" type="b2602c69:ProjectViewProjectNode" />
+              <item name="work" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="work" type="b2602c69:ProjectViewProjectNode" />
+              <item name="work" type="462c0819:PsiDirectoryNode" />
+              <item name=".electron-vue" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="work" type="b2602c69:ProjectViewProjectNode" />
+              <item name="work" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="work" type="b2602c69:ProjectViewProjectNode" />
+              <item name="work" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="G:\project\node_modules\eslint" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="index.js" working-dir="$PROJECT_DIR$/src/main" />
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.index.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a3b4d2e3-1b85-47d8-90c3-532884b9f358" name="Default" comment="" />
+      <created>1528162973489</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1528162973489</updated>
+      <workItem from="1528162974851" duration="35015000" />
+      <workItem from="1528272197507" duration="8863000" />
+      <workItem from="1528333476029" duration="63001000" />
+      <workItem from="1528700260513" duration="14548000" />
+      <workItem from="1528764936920" duration="30102000" />
+      <workItem from="1528851215747" duration="4002000" />
+      <workItem from="1529036883194" duration="2862000" />
+      <workItem from="1529042177822" duration="25118000" />
+      <workItem from="1529391931524" duration="41485000" />
+      <workItem from="1529631640470" duration="11223000" />
+      <workItem from="1529660890472" duration="3194000" />
+      <workItem from="1530180432294" duration="1429000" />
+      <workItem from="1530237618677" duration="1943000" />
+      <workItem from="1530243120429" duration="109000" />
+      <workItem from="1530257723700" duration="701000" />
+      <workItem from="1530499152423" duration="36000" />
+      <workItem from="1530514029070" duration="2000" />
+      <workItem from="1530604409480" duration="678000" />
+      <workItem from="1530777263350" duration="24000" />
+      <workItem from="1531357095172" duration="97000" />
+      <workItem from="1531362112686" duration="1640000" />
+      <workItem from="1531387939540" duration="1173000" />
+      <workItem from="1531796309776" duration="592000" />
+      <workItem from="1531895362902" duration="68000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="258929000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="2077" y="36" width="1472" height="933" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="3" visible="true" weight="0.27057183" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.5005208" side_tool="true" weight="0.021645023" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info id="npm" order="0" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="6" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info id="Favorites" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="7" sideWeight="0.49947917" weight="0.39915523" />
+      <window_info anchor="bottom" id="TypeScript" order="11" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="5" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="10" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.electron-vue/dev-client.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.electron-vue/dev-runner.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/middleware.js" />
+    <entry file="file://$PROJECT_DIR$/node_modules/electron-builder-lib/out/asar/asar.js" />
+    <entry file="file://$USER_HOME$/Desktop/index1.js" />
+    <entry file="file://$USER_HOME$/Documents/Tencent Files/1070507176/FileRecv/MobileFile/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="171" column="29" lean-forward="true" selection-start-line="171" selection-start-column="29" selection-end-line="171" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/assets/public.js" />
+    <entry file="file://$PROJECT_DIR$/.electron-vue/webpack.web.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1403">
+          <caret line="61" column="18" selection-start-line="61" selection-start-column="18" selection-end-line="61" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/zserver/hotLoad.js" />
+    <entry file="file://$USER_HOME$/Desktop/server/package-lock.json" />
+    <entry file="file://$USER_HOME$/Desktop/server/package.json" />
+    <entry file="file://G:/server/index.js" />
+    <entry file="file://$USER_HOME$/Desktop/server/wwwroot/electron-builder.yaml" />
+    <entry file="file://$USER_HOME$/Desktop/server/wwwroot/update.json" />
+    <entry file="file://$USER_HOME$/Desktop/server/wwwroot/check_process Setup 1.0.0.exe" />
+    <entry file="file://$PROJECT_DIR$/src/index.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/components/LandingPage.vue" />
+    <entry file="file://$PROJECT_DIR$/.electron-vue/webpack.main.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.electron-vue/webpack.renderer.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1426">
+          <caret line="62" column="22" selection-start-line="62" selection-start-column="22" selection-end-line="62" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev-app-update.yml" />
+    <entry file="file://$PROJECT_DIR$/electron-builder.yml" />
+    <entry file="file://G:/历史文件/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-130" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/latest.yml" />
+    <entry file="file://$USER_HOME$/Desktop/server/wwwroot/latest.yml" />
+    <entry file="file://$USER_HOME$/Desktop/server/server.js" />
+    <entry file="file://$PROJECT_DIR$/src/renderer/components/login/percent.vue" />
+    <entry file="file://$PROJECT_DIR$/src/renderer/components/RightSide/rightPart.vue" />
+    <entry file="file://$PROJECT_DIR$/src/renderer/components/login/checking.vue" />
+    <entry file="file://$PROJECT_DIR$/src/renderer/components/login/installTip.vue" />
+    <entry file="file://$PROJECT_DIR$/src/renderer/components/login/index/index.vue" />
+    <entry file="file://$PROJECT_DIR$/src/renderer/components/login/login/login.vue" />
+    <entry file="file://$PROJECT_DIR$/src/renderer/components/login/logo/logo.vue" />
+    <entry file="file://$PROJECT_DIR$/src/renderer/router/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="6" lean-forward="true" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/assets/css/index.styl">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2599">
+          <caret line="113" column="1" selection-end-line="167" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2346">
+          <caret line="102" column="23" lean-forward="true" selection-start-line="102" selection-start-column="23" selection-end-line="102" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/assets/css/class.styl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1173">
+          <caret line="51" column="15" lean-forward="true" selection-start-line="51" selection-start-column="15" selection-end-line="51" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/App.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/components/login/login.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/components/update/check/check.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/components/update/version.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/components/update/updateCont.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/components/update/percent.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/components/update/installTip.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/components/update/checking.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/components/update/logo/logo.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/store/modules/Counter.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/store/modules/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/store/modules/update.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/components/update/index/index.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="37" column="31" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="31" />
+          <folding>
+            <element signature="e#452#494#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
